@@ -1,0 +1,38 @@
+# Build output directories
+build_x64/
+build_x86/
+release/
+
+# CMake generated files
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+CMakeConfigureLog.yaml
+*.ninja
+*.ninja_log
+TargetDirectories.txt
+
+# Compiled binaries and objects
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.so
+*.a
+
+# IDE files
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
